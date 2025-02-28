@@ -24,7 +24,7 @@ CSS3 (Styling & Layout)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/amazon-login-clone.git
+git clone https://github.com/Adwita-04/amazon-login-clone.git
 cd amazon-login-clone
 
 2️⃣ Open the File
